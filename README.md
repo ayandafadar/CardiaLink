@@ -1,3 +1,3 @@
 # CardiaLink
 
-Goverfment regularized platform for insurance companices which help in deciding the premium of individual
+Goverment regularized platform for insurance companices which help in deciding the premium of individual
