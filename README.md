@@ -1,4 +1,4 @@
-# CardiaLink Quantify
+# CardiaLink
 
 A comprehensive health risk assessment application that evaluates heart disease, kidney disease, and diabetes risk factors to provide personalized health risk predictions.
 
